@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanhung591/nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "hungle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanhung591/nodejs/issues"
+  },
+  "homepage": "https://github.com/vanhung591/nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
